@@ -1,0 +1,26 @@
+.logincontainer{
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.mocontainer{
+   display: flex;
+    justify-content: center;
+}
+.btn{
+    display: inline;
+    margin-left: 42%;
+    margin-bottom: 10px;
+    
+}
+.btnn{
+    margin-left: 5%;
+}
+.screen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.seat{
+    display: inline;
+    margin-left: 0%;
+}
